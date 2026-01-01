@@ -26,7 +26,7 @@ The project covers the complete product lifecycle:
 
 ## Featured Projects
 
-### 🌫️ Atmos-AQ — Air Quality Monitoring Device
+### <img src="media/atmos-aq-logo.png" width="32" alt="Atmos-AQ logo" /> Atmos-AQ — Air Quality Monitoring Device
 A consumer-focused air quality monitoring system designed for indoor environments.
 
 - Custom PCB with sensor and power sections
