@@ -7,7 +7,7 @@ Building consumer-grade hardware products
 
 ## Current Focus
 
-I am developing **Atmos-AQ**, a consumer-grade air quality monitoring device.
+I am developing **Atmos-AQ**, a production-oriented air quality monitoring device.
 
 The project covers the complete product lifecycle:
 - PCB design from scratch
@@ -34,12 +34,14 @@ A consumer-focused air quality monitoring system designed for indoor environment
 - Modular hardware interfaces
 - Designed for enclosure integration
 
+*Detailed documentation available in pinned repositories*
+
+
 ## Engineering Approach
 
 I focus on building reliable, maintainable systems by designing hardware and firmware together, keeping architectures simple, and prioritizing real-world performance and reliability.
 
 ## Contact
 
-- GitHub: https://github.com/HimanshuChandna
 - Portfolio: https://himanshu-chandna.netlify.app
 - LinkedIn: https://www.linkedin.com/in/mr-himanshu-chandna
