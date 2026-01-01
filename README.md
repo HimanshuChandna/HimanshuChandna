@@ -1,9 +1,11 @@
-# Hi, I'm Himanshu Chandna 👋
+<h1 align="center">Hi, I'm Himanshu Chandna 👋</h1>
 
-Embedded Systems & Digital Electronics Engineer  
+<p align="center">
+<strong>Embedded Systems & Digital Electronics Engineer</strong><br/>
 Building consumer-grade hardware products
+</p>
 
-## 🚀 Current Focus
+## Current Focus
 
 I am developing **Atmos-AQ**, a consumer-grade air quality monitoring device.
 
@@ -13,30 +15,16 @@ The project covers the complete product lifecycle:
 - Bare-metal firmware and hardware interfaces
 - Enclosure design using Fusion 360 and functional 3D printing
 
-## 🧠 Technical Domains
+## Technical Domains
 
-**Embedded & Firmware**
-- C / C++
-- Bare-metal firmware
-- MCU peripherals
-- I2C, SPI, UART, GPIO
+| Area | Competencies |
+|-----|-------------|
+| Embedded Systems | C / C++, Bare-metal firmware, MCU peripherals, I2C, SPI, UART, GPIO |
+| Hardware Design | Schematic capture, PCB layout, Power design, Component selection, BOM |
+| Mechanical Design | Fusion 360, Functional 3D printing, Enclosure design |
+| Engineering Tools | Git & GitHub, Debugging and testing tools |
 
-**Hardware & PCB**
-- Schematic design
-- PCB layout
-- Power supply design
-- Component selection & BOM
-
-**Mechanical & Prototyping**
-- Fusion 360
-- Functional 3D printing
-- Enclosure design
-
-**Tools**
-- Git & GitHub
-- Debugging & testing tools
-
-## 🧩 Featured Projects
+## Featured Projects
 
 ### 🌫️ Atmos-AQ — Air Quality Monitoring Device
 A consumer-focused air quality monitoring system designed for indoor environments.
@@ -46,11 +34,11 @@ A consumer-focused air quality monitoring system designed for indoor environment
 - Modular hardware interfaces
 - Designed for enclosure integration
 
-## 🛠️ Engineering Approach
+## Engineering Approach
 
 I focus on building reliable, maintainable systems by designing hardware and firmware together, keeping architectures simple, and prioritizing real-world performance and reliability.
 
-## 📫 Contact
+## Contact
 
 - GitHub: https://github.com/HimanshuChandna
 - Portfolio: https://himanshu-chandna.netlify.app
