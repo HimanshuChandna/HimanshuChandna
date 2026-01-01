@@ -53,5 +53,5 @@ I focus on building reliable, maintainable systems by designing hardware and fir
 ## 📫 Contact
 
 - GitHub: https://github.com/HimanshuChandna
-- Portfolio: https://yourportfolio.netlify.app
+- Portfolio: https://himanshu-chandna.netlify.app
 - LinkedIn: https://www.linkedin.com/in/mr-himanshu-chandna
